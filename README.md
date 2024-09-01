@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jbzkalla</h1>
+<h1 align="center">Hi 👋, I'm Kato Joseph Bwanika</h1>
 <h3 align="center">A highly motivated and detail-oriented computer science graduate with both a degree and diploma in the field. Possesses a robust skill set in coding, web design, and application development, complemented by a strong foundation in networking and ethical hacking. Known for delivering high-quality solutions in both front-end and back-end development, with a keen eye for graphics design and video editing. Adept at troubleshooting technical issues, fostering a collaborative environment, and continuously learning new technologies to enhance skill sets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbzkalla&label=Profile%20views&color=0e75b6&style=flat" alt="jbzkalla" /> </p>
