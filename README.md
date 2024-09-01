@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbzkalla&label=Profile%20views&color=0e75b6&style=flat" alt="jbzkalla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbzkalla" alt="jbzkalla" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/katojos30650741" target="blank"><img src="https://img.shields.io/twitter/follow/katojos30650741?logo=twitter&style=for-the-badge" alt="katojos30650741" /></a> </p>
 
 - 🔭 I’m currently working on [St.John Paul Vocational & High School](https://st-john-paul.github.io/StJohnpaul/)
